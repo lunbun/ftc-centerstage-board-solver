@@ -1,7 +1,7 @@
-const MAX_WHITE = 64;
-const MAX_YELLOW = 10;
-const MAX_GREEN = 10;
-const MAX_PURPLE = 10;
+const MAX_WHITE = 30;
+const MAX_YELLOW = 5;
+const MAX_GREEN = 5;
+const MAX_PURPLE = 5;
 const MAX_PIXEL_COUNTS = new Uint32Array([ 0, MAX_WHITE, MAX_YELLOW, MAX_GREEN, MAX_PURPLE ]);
 
 const NO_PIXEL = 0;
